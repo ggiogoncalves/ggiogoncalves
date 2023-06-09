@@ -1,9 +1,11 @@
 ### Hello world, welcome to Giovanna Gonçalves' profile 👋
 
 - 🔭 I’m currently working on Financial Market...
-- 🔭 I’m currently learning Economics
-- 📫 How to reach me: giovannacruzrg@gmail.com
+- 🔭 I’m currently learning Economics and much more nice things =)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Giovanna is very curious!
 
-<img align="center" alt="Giovanna-Python" height="30" width="40" src="https://colab.research.google.com/drive/1TY-xDxiKZrzLSmYitGmbQ3C8rXF2vPsw">
+<a href = "mailto:giovannacruzrg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img align="center" alt="Giovanna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <a href="https://www.linkedin.com/in/giovanna-crgon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
