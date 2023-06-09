@@ -1,6 +1,6 @@
 ### Hello world, welcome to Giovanna Gonçalves' profile 👋
 
-- 🔭 I’m currently working on Financial Market...
+- 🔭 I’m currently working in Financial Market...
 - 🔭 I’m currently learning Economics and much more nice things =)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Giovanna is very curious!
